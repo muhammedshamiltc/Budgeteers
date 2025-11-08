@@ -1,4 +1,4 @@
-<img width="1032" height="741" alt="Screenshot 2025-10-26 095240" src="https://github.com/user-attachments/assets/98cb5296-735e-45e4-b41d-0524b5f5182f" /># Budgeteers 💰
+
 
 **Budgeteers** is a Java-based expense tracker application that helps users record, manage, and analyze their daily expenses efficiently.
 
